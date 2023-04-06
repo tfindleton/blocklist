@@ -1,0 +1,4 @@
+0.0.0.0 mqtt-us-1.meross.com
+0.0.0.0 mqtt-us-2.meross.com
+0.0.0.0 mqtt-us-3.meross.com
+0.0.0.0 mqtt-us-4.meross.com
